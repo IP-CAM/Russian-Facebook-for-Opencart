@@ -1,3 +1,41 @@
+# Facebook Russifier for OpenCart
+Russian language plugin Facebook for OpenCart for OpenCart
+
+## Files
+* [OpenCart] (https://opencart.com/)
+* [Facebook for OpenCart] (https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=32336)
+
+## Extension Description
+### Features:
+1. Automatically embed Facebook Pixel events across all store web pages in traditional / responsive web design. Pixel events include:
+   - PageView
+   - ViewContent
+   - AddToCart
+   - Purchase
+   - InitiateCheckout
+   - Search
+   - ViewCategory
+   - AddToWishlist
+   - CompleteRegistration
+   - Lead
+
+2. Automatic synchronization of OpenCart products with Facebook catalog.
+
+3. Sending personally identifiable information in Pixel events in the form of an email address, first name, last name and phone number. This option is disabled by default and can be changed during the plugin installation phase.
+
+4. Enabling the Messenger chat module on your store's web page.
+
+## Build Facebook Business Extension for OpenCart from Source
+Zip the contents of the folder and rename it to facebook_ads_extension.ocmod.zip. DO NOT include the subfolder at the root of the zip file, as this will result in a failed plugin installation.
+
+## Installing the Facebook Business Extension on a live OpenCart website
+Refer to the Installation Guide [EN] (https://github.com/facebookincubator/Facebook-For-OpenCart/blob/master/INSTALL_GUIDE.md) | [RU] (https://github.com/ruOpenCart/facebook-for-opencart-russian/blob/master/INSTALL_GUIDE.md)
+
+## Frequently asked Questions
+Refer to the FAQ manual [EN] (https://github.com/facebookincubator/Facebook-For-OpenCart/blob/master/FAQ.md) | [RU] (https://github.com/ruOpenCart/facebook-for-opencart-russian/blob/master/FAQ.md) 
+
+---------------
+
 # Русификатор Facebook for OpenCart
 Русский язык плагина Facebook for OpenCart для OpenCart
 
